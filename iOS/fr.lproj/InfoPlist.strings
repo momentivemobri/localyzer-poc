@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  SurveyMonkey
+  Copyright © 2016 SurveyMonkey. All rights reserved.
+*/
+
+/* Describes the reason SurveyMonkey needs access to the user's photos when user attempts to create an image question */
+"NSPhotoLibraryUsageDescription"="SurveyMonkey nécessite un accès pour vous permettre de sélectionner une image à ajouter à votre enquête";
