@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- smartling.instruction_attributes = comment -->
+
+    <!-- No smartling comment -->
+    <string translatable="false" name="title_activity_test_fragment">Test Fragment</string>
+    <string name="feedback_positive_cta_text">Vos commentaires sont importants pour nous. Aidez-nous à faire connaître SurveyMonkey en nous évaluant sur le Google Play Store.</string>
+    <string name="share_caption">Merci de répondre à mon sondage !</string>
+    <string name="pref_debug_notifications_title">Notifications de débogage</string>
+
+</resources>
