@@ -20,13 +20,13 @@ msgid "Monthly"
 msgstr "Monthly"
 
 msgid "2 months"
-msgstr "2 monthes"
+msgstr "2 months"
 
 msgid "3 months"
 msgstr "3 months"
 
 msgid "6 months"
-msgstr "6 monthes"
+msgstr "6 months"
 
 msgid "GET 1 MONTH FREE"
 msgstr "GET 1 MONTH FREE"
