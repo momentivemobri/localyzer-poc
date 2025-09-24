@@ -14,19 +14,19 @@ msgstr ""
 "Generated-By: Babel 2.16.0\n"
 
 msgid "Annual"
-msgstr ""
+msgstr "Annual"
 
 msgid "Monthly"
-msgstr ""
+msgstr "Monthly"
 
 msgid "2 months"
-msgstr ""
+msgstr "2 monthes"
 
 msgid "3 months"
-msgstr ""
+msgstr "3 months"
 
 msgid "6 months"
-msgstr ""
+msgstr "6 monthes"
 
 msgid "GET 1 MONTH FREE"
-msgstr ""
+msgstr "GET 1 MONTH FREE"
