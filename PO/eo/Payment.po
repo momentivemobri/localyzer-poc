@@ -20,13 +20,13 @@ msgid "Monthly"
 msgstr "[Ṁöñţĥļý------- П國カ내]"
 
 msgid "2 months"
-msgstr "[2 ɱöñţĥéš----------- П國カ내]"
+msgstr "[2 ɱöñţĥš--------- П國カ내]"
 
 msgid "3 months"
 msgstr "[3 ɱöñţĥš--------- П國カ내]"
 
 msgid "6 months"
-msgstr "[6 ɱöñţĥéš----------- П國カ내]"
+msgstr "[6 ɱöñţĥš--------- П國カ내]"
 
 msgid "GET 1 MONTH FREE"
 msgstr "[ĜÉŢ 1 ṀÖÑŢĤ ƑŔÉÉ--------- П國カ내]"
