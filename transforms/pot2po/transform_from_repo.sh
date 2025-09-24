@@ -7,10 +7,8 @@ find . -name "*.pot" | while read -r pot_file; do
 
   # Remove the suffix
   po_target="${pot_file%$suffix}.po"
-  echo "pot_file = $pot_file"
-  echo "po_target = ${po_target}"
-
   echo "cp ${pot_file} ${po_target}"
+  cp "${pot_file}" "${po_target}"
 done
 
 
