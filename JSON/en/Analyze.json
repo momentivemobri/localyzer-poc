@@ -1,0 +1,36 @@
+{
+  "smartling": {
+    "extractionHash": "f0f4b0e9",
+    "string_format": "icu",
+    "translate_paths": {
+      "instruction": "*/_description",
+      "key": "{*}/message",
+      "path": "*/message"
+    }
+  },
+  "optionsPanelTranslations.DISABLED_RQ_TEXT": {
+    "_description": "[Type: text][Vis: medium] - Disabled text",
+    "_file": "filepath/file.ts",
+    "message": "{feature, select, response_quality {Please ask your admin for access to Response Quality. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>} thematic_analysis {Please ask your admin for access to Thematic Analysis. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>} other {Please ask your admin for access to Sentiment Analysis. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>}}"
+  },
+  "optionsPanelTranslations.OPTIONS_LABEL": {
+    "_description": "[Type: label][Vis: medium] - Options",
+    "_file": "filepath/file.ts",
+    "message": "Options"
+  },
+  "optionsPanelTranslations.RESPONSE_QUALITY_DESCRIPTION": {
+    "_description": "[Type: label][Vis: medium] - Response Quality Description",
+    "_file": "filepath/file.ts",
+    "message": "Once this survey has at least 50 responses, automatically scan for poor-quality responses and spam. New responses are scanned every 24 hours. <span id=\"link_component\">Learn more</span>"
+  },
+  "optionsPanelTranslations.RESPONSE_QUALITY_LABEL": {
+    "_description": "[Type: label][Vis: medium] - Response Quality",
+    "_file": "filepath/file.ts",
+    "message": "Response Quality"
+  },
+  "optionsPanelTranslations.SENTIMENT_ANALYSIS_DESCRIPTION": {
+    "_description": "[Type: label][Vis: medium] - Sentiment Analysis Description",
+    "_file": "filepath/file.ts",
+    "message": "Classify the open-ended responses in this survey as positive, neutral, or negative to reveal the emotion behind what people are saying. <span id=\"link_component\">Learn more</span>"
+  }
+}
