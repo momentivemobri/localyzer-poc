@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- smartling.instruction_attributes = comment -->
+
+    <!-- No smartling comment -->
+    <string translatable="false" name="title_activity_test_fragment">[Ţéšţ Ƒŕåĝɱéñţ------ П國カ내]</string>
+    <string name="feedback_positive_cta_text">[Ýöûŕ ƒééðƀåçķ îš îɱþöŕţåñţ ţö ûš. Ĥéļþ ûš šþŕéåð ţĥé ŵöŕð åƀöûţ ŠûŕṽéýṀöñķéý ƀý ŕåţîñĝ ûš îñ ţĥé Ĝööĝļé Þļåý Šţöŕé.--------------------------- П國カ내]</string>
+    <string name="share_caption">[Þļéåšé ţåķé ɱý šûŕṽéý!---------- П國カ내]</string>
+    <string name="pref_debug_notifications_title">[Ðéƀûĝ Ñöţîƒîçåţîöñš------------ П國カ내]</string>
+
+</resources>
