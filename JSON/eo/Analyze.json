@@ -1,0 +1,36 @@
+{
+  "smartling": {
+    "extractionHash": "[ƒ0ƒ4ƀ0é9--------- П國カ내]",
+    "string_format": "[îçû П國カ]",
+    "translate_paths": {
+      "instruction": "[*/_ðéšçŕîþţîöñ------- П國カ내]",
+      "key": "[{*}/ɱéššåĝé---- П國カ내]",
+      "path": "[*/ɱéššåĝé----------- П國カ내]"
+    }
+  },
+  "optionsPanelTranslations.DISABLED_RQ_TEXT": {
+    "_description": "[Type: text][Vis: medium] - Disabled text",
+    "_file": "filepath/file.ts",
+    "message": "{feature, select, response_quality {Please ask your admin for access to Response Quality. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>} thematic_analysis {Please ask your admin for access to Thematic Analysis. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>} other {Please ask your admin for access to Sentiment Analysis. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>}}"
+  },
+  "optionsPanelTranslations.OPTIONS_LABEL": {
+    "_description": "[Type: label][Vis: medium] - Options",
+    "_file": "filepath/file.ts",
+    "message": "[Öþţîöñš------- П國カ내]"
+  },
+  "optionsPanelTranslations.RESPONSE_QUALITY_DESCRIPTION": {
+    "_description": "[Type: label][Vis: medium] - Response Quality Description",
+    "_file": "filepath/file.ts",
+    "message": "[Öñçé ţĥîš šûŕṽéý ĥåš åţ ļéåšţ 50 ŕéšþöñšéš, åûţöɱåţîçåļļý šçåñ ƒöŕ þööŕ-ǫûåļîţý ŕéšþöñšéš åñð šþåɱ. Ñéŵ ŕéšþöñšéš åŕé šçåññéð éṽéŕý 24 ĥöûŕš. <span id=\"link_component\">Ļéåŕñ ɱöŕé]</span>"
+  },
+  "optionsPanelTranslations.RESPONSE_QUALITY_LABEL": {
+    "_description": "[Type: label][Vis: medium] - Response Quality",
+    "_file": "filepath/file.ts",
+    "message": "[Ŕéšþöñšé Ǫûåļîţý--------- П國カ내]"
+  },
+  "optionsPanelTranslations.SENTIMENT_ANALYSIS_DESCRIPTION": {
+    "_description": "[Type: label][Vis: medium] - Sentiment Analysis Description",
+    "_file": "filepath/file.ts",
+    "message": "[Çļåššîƒý ţĥé öþéñ-éñðéð ŕéšþöñšéš îñ ţĥîš šûŕṽéý åš þöšîţîṽé, ñéûţŕåļ, öŕ ñéĝåţîṽé ţö ŕéṽéåļ ţĥé éɱöţîöñ ƀéĥîñð ŵĥåţ þéöþļé åŕé šåýîñĝ. <span id=\"link_component\">Ļéåŕñ ɱöŕé]</span>"
+  }
+}

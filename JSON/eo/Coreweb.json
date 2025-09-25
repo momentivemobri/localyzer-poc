@@ -1,0 +1,56 @@
+{
+  "smartling": {
+    "extractionHash": "[532ƒ77ç2--------- П國カ내]",
+    "string_format": "[îçû П國カ]",
+    "translate_paths": {
+      "instruction": "[*/_ðéšçŕîþţîöñ------- П國カ내]",
+      "key": "[{*}/ɱéššåĝé---- П國カ내]",
+      "path": "[*/ɱéššåĝé----------- П國カ내]"
+    }
+  },
+  "Home.InviteRequestPopout.AcceptButton": {
+    "_description": "[Type: label][Vis: med] - Accept button label",
+    "_file": "filepath/file.tsx",
+    "message": "[Åççéþţ----- П國カ내]"
+  },
+  "Home.InviteRequestPopout.AssignSeat": {
+    "_description": "[Type: label][Vis: med] - Assign seat label",
+    "_file": "filepath/file.tsx",
+    "message": "[Åššîĝñ šéåţ:----- П國カ내]"
+  },
+  "Home.InviteRequestPopout.Contributor": {
+    "_description": "[Type: label][Vis: med] - Contributor option in select",
+    "_file": "filepath/file.tsx",
+    "message": "[Çöñţŕîƀûţöŕ---- П國カ내]"
+  },
+  "Home.InviteRequestPopout.DeclineButton": {
+    "_description": "[Type: label][Vis: med] - Decline button label",
+    "_file": "filepath/file.tsx",
+    "message": "[Ðéçļîñé------- П國カ내]"
+  },
+  "Home.InviteRequestPopout.ErrorMessage": {
+    "_description": "[Type: label][Vis: med] - Error message when processing request fails",
+    "_file": "filepath/file.tsx",
+    "message": "[Šöɱéţĥîñĝ ŵéñţ ŵŕöñĝ. Ŕéƒŕéšĥ ţĥé þåĝé åñð ţŕý åĝåîñ.-------------- П國カ내]"
+  },
+  "Home.InviteRequestPopout.FullUser": {
+    "_description": "[Type: label][Vis: med] - Full user option in select",
+    "_file": "filepath/file.tsx",
+    "message": "[Ƒûļļ ûšéŕ----------- П國カ내]"
+  },
+  "Home.InviteRequestPopout.PendingRequests": {
+    "_description": "[Type: label][Vis: med] - Popout title for pending requests",
+    "_file": "filepath/file.tsx",
+    "message": "[Þéñðîñĝ ŕéǫûéšţš--------- П國カ내]"
+  },
+  "Home.InviteRequestPopout.RequestAccepted": {
+    "_description": "[Type: label][Vis: med] - Message when request is accepted successfully",
+    "_file": "filepath/file.tsx",
+    "message": "[Ŕéǫûéšţ åççéþţéð--------- П國カ내]"
+  },
+  "Home.InviteRequestPopout.ReviewRequests": {
+    "_description": "[Type: label][Vis: med] - Button to review requests",
+    "_file": "filepath/file.tsx",
+    "message": "[Ŕéṽîéŵ ŕéǫûéšţš-------- П國カ내]"
+  }
+}
