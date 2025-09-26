@@ -1,0 +1,36 @@
+{
+  "smartling": {
+    "extractionHash": "f0f4b0e9",
+    "string_format": "unité de soins intensifs",
+    "translate_paths": {
+      "instruction": "*/_description",
+      "key": "'{*}' /message",
+      "path": "*/message"
+    }
+  },
+  "optionsPanelTranslations.DISABLED_RQ_TEXT": {
+    "_description": "[Type: text][Vis: medium] - Disabled text",
+    "_file": "filepath/file.ts",
+    "message": "{feature, select, response_quality {Please ask your admin for access to Response Quality. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>} thematic_analysis {Please ask your admin for access to Thematic Analysis. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>} other {Please ask your admin for access to Sentiment Analysis. Once you have access, you can enable it here. <span id=\"link_component\">Learn more</span>}}"
+  },
+  "optionsPanelTranslations.OPTIONS_LABEL": {
+    "_description": "[Type: label][Vis: medium] - Options",
+    "_file": "filepath/file.ts",
+    "message": "Options"
+  },
+  "optionsPanelTranslations.RESPONSE_QUALITY_DESCRIPTION": {
+    "_description": "[Type: label][Vis: medium] - Response Quality Description",
+    "_file": "filepath/file.ts",
+    "message": "Une fois que cette enquête a obtenu au moins 50 réponses, recherchez automatiquement les réponses de mauvaise qualité et les spams. Les nouvelles réponses sont scannées toutes les 24 heures. <span id=\"link_component\">En savoir plus</span>"
+  },
+  "optionsPanelTranslations.RESPONSE_QUALITY_LABEL": {
+    "_description": "[Type: label][Vis: medium] - Response Quality",
+    "_file": "filepath/file.ts",
+    "message": "Qualité de réponse"
+  },
+  "optionsPanelTranslations.SENTIMENT_ANALYSIS_DESCRIPTION": {
+    "_description": "[Type: label][Vis: medium] - Sentiment Analysis Description",
+    "_file": "filepath/file.ts",
+    "message": "Classez les réponses ouvertes de cette enquête comme positives, neutres ou négatives afin de révéler l'émotion qui sous-tend ce que les gens disent. <span id=\"link_component\">En savoir plus</span>"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "smartling": {
+    "extractionHash": "532 x 77c2",
+    "string_format": "unité de soins intensifs",
+    "translate_paths": {
+      "instruction": "*/_description",
+      "key": "'{*}' /message",
+      "path": "*/message"
+    }
+  },
+  "Home.InviteRequestPopout.AcceptButton": {
+    "_description": "[Type: label][Vis: med] - Accept button label",
+    "_file": "filepath/file.tsx",
+    "message": "Accepter"
+  },
+  "Home.InviteRequestPopout.AssignSeat": {
+    "_description": "[Type: label][Vis: med] - Assign seat label",
+    "_file": "filepath/file.tsx",
+    "message": "Attribuer un siège :"
+  },
+  "Home.InviteRequestPopout.Contributor": {
+    "_description": "[Type: label][Vis: med] - Contributor option in select",
+    "_file": "filepath/file.tsx",
+    "message": "Contributeur"
+  },
+  "Home.InviteRequestPopout.DeclineButton": {
+    "_description": "[Type: label][Vis: med] - Decline button label",
+    "_file": "filepath/file.tsx",
+    "message": "Déclin"
+  },
+  "Home.InviteRequestPopout.ErrorMessage": {
+    "_description": "[Type: label][Vis: med] - Error message when processing request fails",
+    "_file": "filepath/file.tsx",
+    "message": "Quelque chose s'est mal passé. Actualisez la page et réessayez."
+  },
+  "Home.InviteRequestPopout.FullUser": {
+    "_description": "[Type: label][Vis: med] - Full user option in select",
+    "_file": "filepath/file.tsx",
+    "message": "Utilisateur complet"
+  },
+  "Home.InviteRequestPopout.PendingRequests": {
+    "_description": "[Type: label][Vis: med] - Popout title for pending requests",
+    "_file": "filepath/file.tsx",
+    "message": "Demandes en attente"
+  },
+  "Home.InviteRequestPopout.RequestAccepted": {
+    "_description": "[Type: label][Vis: med] - Message when request is accepted successfully",
+    "_file": "filepath/file.tsx",
+    "message": "Demande acceptée"
+  },
+  "Home.InviteRequestPopout.ReviewRequests": {
+    "_description": "[Type: label][Vis: med] - Button to review requests",
+    "_file": "filepath/file.tsx",
+    "message": "Demandes de révision"
+  }
+}
