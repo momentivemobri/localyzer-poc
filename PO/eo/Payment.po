@@ -16,8 +16,8 @@ msgstr ""
 msgid "Annual"
 msgstr "[Åññûåļ----- П國カ내]"
 
-msgid "Monthly"
-msgstr "[Ṁöñţĥļý------- П國カ내]"
+msgid "Monthly (Minimum Subscription)"
+msgstr "[Ṁöñţĥļý (Ṁîñîɱûɱ Šûƀšçŕîþţîöñ)----------------- П國カ내]"
 
 msgid "2 months"
 msgstr "[2 ɱöñţĥš--------- П國カ내]"
