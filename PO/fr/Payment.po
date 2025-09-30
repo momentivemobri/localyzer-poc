@@ -14,19 +14,23 @@ msgstr ""
 "Generated-By: Babel 2.16.0\n"
 
 msgid "Annual"
-msgstr "Annuel"
+msgstr "Annual"
 
 msgid "Monthly"
-msgstr "Mensuel"
+msgstr "Monthly"
 
 msgid "2 months"
-msgstr "2 mois"
+msgstr "2 months"
 
 msgid "3 months"
-msgstr "3 mois"
+msgstr "3 months"
 
 msgid "6 months"
-msgstr "6 mois"
+msgstr "6 months"
 
 msgid "GET 1 MONTH FREE"
-msgstr "BÉNÉFICIEZ DE 1 MOIS GRATUIT"
+msgstr "GET 1 MONTH FREE"
+msgid "Send me my bill"
+msgstr "Envoyez-moi ma facture"
+msgid "Your subscription will be cancelled"
+msgstr "Votre abonnement sera annulé"
