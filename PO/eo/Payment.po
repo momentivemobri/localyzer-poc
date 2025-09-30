@@ -28,5 +28,11 @@ msgstr "[3 ɱöñţĥš--------- П國カ내]"
 msgid "6 months"
 msgstr "[6 ɱöñţĥš--------- П國カ내]"
 
+msgid "Send me my bill"
+msgstr "[Šéñð ɱé ɱý ƀîļļ-------- П國カ내]"
+
+msgid "Your subscription will be cancelled"
+msgstr "[Ýöûŕ šûƀšçŕîþţîöñ ŵîļļ ƀé çåñçéļļéð-------------- П國カ내]"
+
 msgid "GET 1 MONTH FREE"
 msgstr "[ĜÉŢ 1 ṀÖÑŢĤ ƑŔÉÉ--------- П國カ내]"
