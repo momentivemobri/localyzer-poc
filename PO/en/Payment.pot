@@ -36,3 +36,6 @@ msgstr "Your subscription will be cancelled"
 
 msgid "GET 1 MONTH FREE"
 msgstr "GET 1 MONTH FREE"
+
+msgid "I love chicken"
+msgstr "I love chicken"
