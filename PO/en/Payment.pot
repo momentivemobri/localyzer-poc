@@ -16,8 +16,8 @@ msgstr ""
 msgid "Annual"
 msgstr "Annual"
 
-msgid "Monthly"
-msgstr "Monthly"
+msgid "Monthly (Minimum Subscription)"
+msgstr "Monthly (Minimum Subscription)"
 
 msgid "2 months"
 msgstr "2 months"
