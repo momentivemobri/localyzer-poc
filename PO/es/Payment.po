@@ -15,24 +15,17 @@ msgstr ""
 
 msgid "Annual"
 msgstr "Annual"
-
-msgid "Monthly"
-msgstr "Monthly"
-
+msgid "Monthly (Minimum Subscription)"
+msgstr "Mensual (Suscripción Mínima)"
 msgid "2 months"
 msgstr "2 months"
-
 msgid "3 months"
 msgstr "3 months"
-
 msgid "6 months"
 msgstr "6 months"
-
-msgid "GET 1 MONTH FREE"
-msgstr "GET 1 MONTH FREE"
 msgid "Send me my bill"
 msgstr "Send me my bill"
 msgid "Your subscription will be cancelled"
 msgstr "Your subscription will be cancelled"
-msgid "Monthly (Minimum Subscription)"
-msgstr "Mensuel (abonnement minimum)"
+msgid "GET 1 MONTH FREE"
+msgstr "GET 1 MONTH FREE"
